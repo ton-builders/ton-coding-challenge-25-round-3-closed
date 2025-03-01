@@ -10,6 +10,7 @@ https://t.me/TON_HongKong
 > 
 > Fork 本仓库的代码，回答下面的问题，然后发起一个 Pull Requests 就算成功参与。
 
+---
 
 ### 任务 1：在TON测试网领取测试代币，并给指定地址转账
 
@@ -24,6 +25,9 @@ https://t.me/TON_HongKong
 你的答案：
 
 （写下你的转账交易的浏览器地址）
+
+
+---
 
 ### 任务 2：通过 TON SDK 将你的钱包地址转换成不同格式
 
@@ -43,6 +47,8 @@ https://t.me/TON_HongKong
 3. testnet, bounceable =  ?
 4. testnet, non-bounceable =  ?
 
+---
+
 ### 任务 3：通过 TON SDK 解析这个，获取字符串
 
 任务描述：
@@ -60,3 +66,5 @@ b5ee9c7241010101003600006700000000000007e98007ebd0a3f5bd5b9b3c4e0b75b17ea9db2b7e
 1. unit = ?
 2. address = ?
 3. string = ?
+
+---
