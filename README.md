@@ -26,8 +26,8 @@ https://t.me/TON_HongKong
 
 （写下你的转账交易的浏览器地址，以及你的Telegram 用户名用户接受Telegram会员奖励）
 
-1. 转账交易的浏览器地址
-2. 你的Telegram用户名
+1. 转账交易的浏览器地址 =  ?
+2. 你的Telegram用户名 =  ?
 
 ---
 
