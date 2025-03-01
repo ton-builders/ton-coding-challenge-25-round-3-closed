@@ -51,7 +51,7 @@ https://t.me/TON_HongKong
 
 ---
 
-## 任务 3：通过 TON SDK 解析这个，获取字符串
+## 任务 3：通过 TON SDK 解析这个，获取对应信息
 
 ### 任务描述：
 
