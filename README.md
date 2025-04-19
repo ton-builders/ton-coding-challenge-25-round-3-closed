@@ -1,33 +1,31 @@
 # TON Coding Challenge 2025
 
-
 为了帮助大家快速掌握 TON 生态的开发技能，我们特别设计了有趣的编程入门挑战赛。快来参与并有机会赢取 Telegram Premium 大会员！详细的比赛规则请查看群组公告。
 
 https://t.me/TON_HongKong
 
-
 > 如何参与？
-> 
+>
 > Fork 本仓库的代码，回答下面的问题，然后发起一个 Pull Requests 就算成功参与。
 
 ---
 
-## 任务 1：在TON测试网领取测试代币，并给指定地址转账
+## 任务 1：在 TON 测试网领取测试代币，并给指定地址转账
 
 ### 任务描述：
 
 1. 你可以使用 [Tonkeeper](https://tonkeeper.com/) 等钱包创建测试网钱包
 2. 你可以通过 [@testgiver_ton_bot](https://t.me/testgiver_ton_bot) 领取测试网代币
-3. 给下面的地址转账任意金额的 TON，并且Comments里面填写你的Telegram用户名
+3. 给下面的地址转账任意金额的 TON，并且 Comments 里面填写你的 Telegram 用户名
 
 0QAAQ3X8LZ3qmwnIgaXwgysWnBBBE8T26G8B4iQ4-PHDGHQC
 
 ### 你的答案：
 
-（写下你的转账交易的浏览器地址，以及你的Telegram 用户名用户接受Telegram会员奖励）
+（写下你的转账交易的浏览器地址，以及你的 Telegram 用户名用户接受 Telegram 会员奖励）
 
-1. 转账交易的浏览器地址 =  ?
-2. 你的Telegram用户名 =  ?
+1. 转账交易的浏览器地址 = https://testnet.tonviewer.com/transaction/6eff796cee32241ff8490128cb966adf8af4d9a2dbea7b5a01cfac8e4cb04010
+2. 你的 Telegram 用户名 = @wDRxxx
 
 ---
 
@@ -44,10 +42,10 @@ https://t.me/TON_HongKong
 
 （写下你的钱包地址的 4 个不同格式的值）
 
-1. mainnet, bounceable =  ?
-2. mainnet, non-bounceable =  ?
-3. testnet, bounceable =  ?
-4. testnet, non-bounceable =  ?
+1. mainnet, bounceable = EQBYenI3ANZIOXN5gpzcoEK7\_\_yy6y1EhspbGn6pMfTMpqmL
+2. mainnet, non-bounceable = UQBYenI3ANZIOXN5gpzcoEK7\_\_yy6y1EhspbGn6pMfTMpvRO
+3. testnet, bounceable = kQBYenI3ANZIOXN5gpzcoEK7\_\_yy6y1EhspbGn6pMfTMphIB
+4. testnet, non-bounceable = 0QBYenI3ANZIOXN5gpzcoEK7\_\_yy6y1EhspbGn6pMfTMpk_E
 
 ---
 
@@ -65,8 +63,8 @@ b5ee9c7241010101003600006700000000000007e98007ebd0a3f5bd5b9b3c4e0b75b17ea9db2b7e
 
 （将 unit，address 和 string 的值打印出来）
 
-1. unit = ?
-2. address = ?
-3. string = ?
+1. unit = 2025
+2. address = EQA_XoUfrerc2eJwW62L9U7ZW_BjA6VUWTQec3UrisOqhP8a
+3. string = Hello TON!
 
 ---
