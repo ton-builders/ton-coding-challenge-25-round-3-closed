@@ -1,0 +1,9 @@
+from tonsdk.utils import Address
+
+raw = "0QCl0LkkMlrwXuxmPhuzTwYJDzbTmDeAtLGlJs5qLzgXQQgO"
+addr = Address(raw)
+
+print("mainnet, bounceable    =", addr.to_string(is_bounceable=True,  is_test_only=False))
+print("mainnet, non-bounceable=", addr.to_string(is_bounceable=False, is_test_only=False))
+print("testnet, bounceable    =", addr.to_string(is_bounceable=True,  is_test_only=True))
+print("testnet, non-bounceable=", addr.to_string(is_bounceable=False, is_test_only=True))
