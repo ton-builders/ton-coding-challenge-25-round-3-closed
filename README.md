@@ -4,7 +4,7 @@
 （写下你的转账交易的浏览器地址，以及你的Telegram 用户名用户接受Telegram会员奖励）
 
 1. 转账交易的浏览器地址 = https://testnet.tonviewer.com/transaction/01aacf06f28ef0f77d2d01b17975c68ab615368da0ed8244b2b06fc5ce7aefdd
-2. 你的Telegram用户名 = @alena_2600
+2. 你的Telegram用户名 = @cryptoo_exe
 
 ---
 
