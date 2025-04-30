@@ -27,7 +27,7 @@ https://t.me/TON_HongKong
 （写下你的转账交易的浏览器地址，以及你的Telegram 用户名用户接受Telegram会员奖励）
 
 1. 转账交易的浏览器地址 = https://testnet.tonviewer.com/transaction/4eb7add724d11a3bf17b77c7b6128c2a4fdc1a784b1448bbe4ea0b6470ad74f0
-2. 你的Telegram用户名 =  @bionic2113
+2. 你的Telegram用户名 =  @dmitry_user
 
 ---
 
