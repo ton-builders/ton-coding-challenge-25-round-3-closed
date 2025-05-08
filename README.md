@@ -28,8 +28,8 @@ https://t.me/TON_HongKong
 
 （写下你的转账交易的浏览器地址，以及你的Telegram 用户名用户接受Telegram会员奖励）
 
-1. 转账交易的浏览器地址 =  ?
-2. 你的Telegram用户名 =  ?
+1. 转账交易的浏览器地址 =  https://testnet.tonviewer.com/transaction/e9c94ddb5c42a05f370153a9713a11a3bab34b15aa6b49e51e941d727c5b4ade
+2. 你的Telegram用户名 =  @Virtusmaximus
 
 ---
 
@@ -46,10 +46,10 @@ https://t.me/TON_HongKong
 
 （写下你的钱包地址的 4 个不同格式的值）
 
-1. mainnet, bounceable =  ?
-2. mainnet, non-bounceable =  ?
-3. testnet, bounceable =  ?
-4. testnet, non-bounceable =  ?
+1. mainnet, bounceable =  EQDWcq93d_f-VmHIlwuQmqbf1kpMucy2Aro3EVXnG5kC06LL
+2. mainnet, non-bounceable =  UQDWcq93d_f-VmHIlwuQmqbf1kpMucy2Aro3EVXnG5kC0_8O
+3. testnet, bounceable =  kQDWcq93d_f-VmHIlwuQmqbf1kpMucy2Aro3EVXnG5kC0xlB
+4. testnet, non-bounceable =  0QDWcq93d_f-VmHIlwuQmqbf1kpMucy2Aro3EVXnG5kC00SE
 
 ---
 
@@ -67,8 +67,8 @@ b5ee9c7241010101003600006700000000000007e98007ebd0a3f5bd5b9b3c4e0b75b17ea9db2b7e
 
 （将 unit，address 和 string 的值打印出来）
 
-1. unit = ?
-2. address = ?
-3. string = ?
+1. unit = 2025
+2. address = EQA_XoUfrerc2eJwW62L9U7ZW_BjA6VUWTQec3UrisOqhP8a
+3. string = Hello TON!
 
 ---
