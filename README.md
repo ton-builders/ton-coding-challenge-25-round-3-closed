@@ -1,6 +1,8 @@
 # TON Coding Challenge 2025
 
 
+> 2025-05-08 活动已经结束，不再收集提交名单。
+
 为了帮助大家快速掌握 TON 生态的开发技能，我们特别设计了有趣的编程入门挑战赛。快来参与并有机会赢取 Telegram Premium 大会员！详细的比赛规则请查看群组公告。
 
 https://t.me/TON_HongKong
